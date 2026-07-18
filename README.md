@@ -1,4 +1,4 @@
-<img width="1376" height="768" alt="Gemini_Generated_Image_ltn7hbltn7hbltn7" src="https://github.com/user-attachments/assets/c818d570-dbb8-4815-9940-7b2ce4e8b236" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76da0c0a-14d4-4021-9f8f-b4a9456cf702" />
 
 # CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Doloso
 
