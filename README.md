@@ -1,4 +1,5 @@
-![Uploading AD.png…]()
+<img src="AD.png" width="100%">
+
 
 # CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Doloso
 
