@@ -11,19 +11,16 @@
    
   
    ___
-   <img src="pipeline_cpe031.png" >
-   ___
-
+   ## Question  →  Visual  →  Design →  Insight  →  Decision   
    </div>
-   
-   
- 
 
+
+   
+   ___
 ## Description
    - this repository was created as a primary documentation and submission for the course *CPE 031 - Visualizations and Data Analysis*.
   
    ___
-  
 ## Contents
    ```
    Portfolio_in_CPE-031/
@@ -35,12 +32,10 @@
    ```
 
    ---
-
 ## About this Course
    -                     
 
 ___
-
 ## Instructor
    - Engr. Jimlord Quejado
   
@@ -66,31 +61,42 @@ ___
 
    | Activity | Topic | Description |
    |---|---|---|
-   | Hands-on Activity 1.1 | 1 | Short description |
-   | Hands-on Activity 2.1 | 2 | Short description |
-   | Hands-on Activity 3.1 | 3 | Short description |
-   | Hands-on Activity 4.1 | 4 | Short description |
-   | Hands-on Activity 5.1 | 5 | Short description |
+   | Hands-on Activity  |
+   | Hands-on Activity 1 | Pivot Charts | Short description |
+   | Hands-on Activity 2 | Interactive Widget | Short description |
+   | Hands-on Activity 3 | Explore CopyAI | Short description |
+   | Hands-on Activity 4 | Data Analytics Career | Short description |
+   | Quiz |
+   | Quiz 1 | Experience Analytics | Short description |
+   | Quiz 2 | Data Collection and Gathering | Short description |
+   | Quiz 3 | Big Data, AI, and ML | Short description |
+   | Quiz 4 | Embarking on Your Career in Data Analytics | Short description |
+   | Exam |
+   |Preliminary Exam | Introduction to Data Science | Short description |
+   
    ### [MIDTERM](./MIDTERM)
    Linear data structures.
 
    | Activity | Topic | Description |
    |---|---|---|
-   | Hands-on Activity 6.1 | 6 | Short description |
-   | Hands-on Activity 7.1 | 7 | Queue implementation and operations |
-   | Hands-on Activity 8.1 | 8 | Short description |
-   | Hands-on Activity 9.1 | 9 | Short description |
+   | Hands-on Activity 5 | Selecting a Chart Type | Short description |
+   | Hands-On Activity 6 | Data Visualization and Design | Short description |
+   | Hands-On Activity 7 | Purpose Use of Color | Short description |
+   | Hands-On-Activity 8 | Visualizing Variability | Short description |
+   | Exam |
+   | Midterm Exam |  | Short description |
+   
    ### [FINALS](./FINALS)
    Advanced data structures and algorithms.
 
    | Activity | Topic | Description |
    |---|---|---|
-   | Hands-on Activity 10.1 | 10 | Short description |
-   | Hands-on Activity 11.1 | 11 | Short description |
-   | Hands-on Activity 12.1 | 12 | Short description |
-   | Hands-on Activity 13.1 | 13 | Short description |
-   | Hands-on Activity 14.1 | 14  | Short description |
-   | Final Project | Project name | Short description |
+   | Hands-on Activity 9 | Exploring Data Visually | Short description |
+   | Hands-on Activity 10 | Explaining Visually to Influence with Data | Short description |
+   | Hands-on Activity 11 |  | Short description |
+   | Hands-on Activity 12 | Data Dashboard Taxonomies | Short description |
+   | Hands-on Activity 13 | Designing a Purpose-Driven Data Dashboard  | Short description |
+   | Final Project | Exploratory Data Analysis | Short description |
    ---
 
    ## Topics Covered
