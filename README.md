@@ -1,23 +1,30 @@
- <div align="center">
+  <div align="center">
 
   # CPE-031: Visualizations and Data Analysis
   ### Hands-on Activities Compilation
   
    <img src="banner_cpe031.png" alt="CPE-031 Visualizations and Data Analysis Banner" width="100%">
 
-  ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Course](https://img.shields.io/badge/Course-CPE--031-blueviolet?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-</div>
+   ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+   ![Course](https://img.shields.io/badge/Course-CPE--031-blueviolet?style=for-the-badge)
+   ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+   
+  
+   ___
+   <img src="pipeline_cpe031.png" >
+   ___
 
-   ---
-# CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Doloso
+   </div>
+   
+   
+ 
 
 ## Description
-- this repository was created as a primary documentation and submission for the course *CPE 031 - Visualizations and Data Analysis*.
-
-## CONTENTS
-
+   - this repository was created as a primary documentation and submission for the course *CPE 031 - Visualizations and Data Analysis*.
+  
+   ___
+  
+## Contents
    ```
    Portfolio_in_CPE-031/
    │
@@ -25,13 +32,20 @@
    ├── PRELIM/          # Prelim period activities
    ├── MIDTERM/         # Midterm period activities
    ├── FINALS/          # Finals period activities
-  
    ```
+
    ---
 
-## INSTRUCTOR
-- Engr. Jimlord Quejado
+## About this Course
+   -                     
 
+___
+
+## Instructor
+   - Engr. Jimlord Quejado
+  
+   ___
+  
 ## Student Information
 
    | | |
@@ -87,7 +101,8 @@
    - [x] 
    - [x]  
    - [x]  
-   - [x]   
+   - [x] 
+   
    ---
 
    ## Contact
@@ -96,6 +111,11 @@
    - Email: qadolosojr@tip.edu.ph
 
    ---
+   
+   <div align="center"> 
+    
+   ## THANK YOU!
 
-   <div align="center"> * Thank you! * </div>
-
+   </div>
+   
+    
