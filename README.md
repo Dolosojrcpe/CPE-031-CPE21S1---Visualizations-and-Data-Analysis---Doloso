@@ -1,7 +1,8 @@
  <div align="center">
-   #CPE-031: Visualizations-and-Data-Analysis
-   ###Hands-on Activities Compilation
 
+  # CPE-031: Visualizations and Data Analysis
+  ### Hands-on Activities Compilation
+  
    <img src="banner_cpe031.png" alt="CPE-031 Visualizations and Data Analysis Banner" width="100%">
 
   ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
