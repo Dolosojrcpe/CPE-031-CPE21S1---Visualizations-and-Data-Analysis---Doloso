@@ -20,7 +20,7 @@
   
    ___
 
-   ## About this Portfolio
+   ## About this Course
    - This course introduces students to the foundations of data analytics and data visualization as tools for understanding, communicating, and influencing data-driven decisions. It begins with the role of data in everyday experiences, business understanding, big data management, artificial intelligence, machine learning, and career pathways in data analytics. The course then develops students’ ability to select appropriate chart types, apply visual design principles, use color purposefully, and represent variability in data. It culminates in the creation and interpretation of visual data stories, dashboards, and ethical data visualizations that communicate insights clearly, accurately, and responsibly.
 
    ___
@@ -35,9 +35,6 @@
    ```
 
    ---
-## About this Course
-   -                     
-
 ___
 ## Instructor
    - Engr. Jimlord Quejado
